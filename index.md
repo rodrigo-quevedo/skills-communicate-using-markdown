@@ -14,3 +14,9 @@ http.createServer( (req, res) => {
 })
 .listen(3000, ()=>{console.log('Server started at http://localhost:3000')})
 ```
+
+- [x] Add title
+- [x] Add image
+- [x] Write hello world
+- [ ] Commit changes 
+- [ ] Merge
